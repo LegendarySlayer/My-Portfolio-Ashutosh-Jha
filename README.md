@@ -68,5 +68,5 @@ Personal-Portfolio/
 
 ## 👤 Author
 Ashutosh Jha
-GitHub: @LegendarySlayer
-LinkedIn: ashutosh-jha-025
+-   **GitHub:** [@Ashutosh Jha](https://github.com/LegendarySlayer)
+
